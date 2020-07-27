@@ -1,0 +1,19 @@
+
+    [
+      {
+        "q": "Hulk",
+        "info": 1,
+        "limit": 4,
+        "type": "movies",
+        "valid": true,
+        "valideK": true
+      },
+      {
+        "q": "Harry Potter",
+        "info": 0,
+        "limit": 5,
+        "type": "book",
+        "valid": true,
+        "valideK": true
+      }
+  ]
